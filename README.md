@@ -1,2 +1,2 @@
 # nostr-scripts
-Quick scripts to help me with nostr stuff
+Quick scripts to help with quick nostr-related stuff
